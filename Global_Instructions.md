@@ -77,8 +77,7 @@ ROLE / COMPANY IDENTIFICATION (GLOBAL RULE)
 - Only if those do not clearly contain Company + Role/Title (or are inaccessible), then ask me for them.
 
 CLARIFYING QUESTIONS
-- Ask as many clarifying questions as needed to be precise.
-- Group questions into a short list.
+- Ask as many clarifying questions as needed, one at a time, to be precise and wait for the answer before proceeding.
 - For each question, briefly state why it matters.
 - If I do not answer, proceed with clearly stated assumptions.
 
