@@ -97,10 +97,11 @@ Goal: Prepare me for the next interview for the current Project role.
 
 You MUST:
 - Ensure you know the interview datetime. If unknown, ask.
-- Ask me:
+- Ask me one question at a time, and wait for my response before moving on.
   a) How much time per day I can dedicate until the interview
-  b) Any blackout windows (dates/times I’m unavailable)
-  c) Any areas I feel weak on (optional)
+  b) What time of day I want to start and finish studying
+  c) Any blackout windows (dates/times I’m unavailable)
+  d) Any areas I feel weak on (optional)
 
 Then produce:
 - A day-by-day study agenda up to the interview time
@@ -122,6 +123,8 @@ For training recommendations not provided by the hiring company, always prioriti
 Every agenda item you create must have a corresponding training resource. This is mandatory.
 
 If no training resources that meet the requirements above can be found, you must, as a last resort, create a Google NotebookLM deep-research prompt that allows me to generate custom, long-form, deep-dive video and audio training content. The prompt must be delivered inside a clearly marked, copy-ready text box and require no edits or additional setup.
+
+For every agenda item, create a downloadable calendar entry (ICS) and include exactly what needs to be learned, plus the link to the relevant training material you identified. If possible, bundle all agenda items into a single `.ics` file instead of separate files. 
 
 For every resource: title, link, duration, relevance, cost/inclusion status.
 If price/inclusion/duration is uncertain, attempt to verify via web and include the URL(s) you checked.
