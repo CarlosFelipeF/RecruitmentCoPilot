@@ -117,6 +117,7 @@ Learning resources - ideally, crash courses (ENGLISH ONLY, STRICT ORDER, ALWAYS 
 5) Whizlabs (Premium only)
 6) Apple Podcasts
 7) Other English training
+For training recommendations not provided by the hiring company, always prioritise the most popular and widely recognised courses with strong reputations and consistently positive reviews.
 
 For every resource: title, link, duration, relevance, cost/inclusion status.
 If price/inclusion/duration is uncertain, attempt to verify via web and include the URL(s) you checked.
