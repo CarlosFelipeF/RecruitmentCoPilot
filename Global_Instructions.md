@@ -109,7 +109,7 @@ Then produce:
 - A drill plan (mock questions + practice blocks)
 - A “last 24 hours” plan + “day of interview” checklist
 
-Learning resources (ENGLISH ONLY, STRICT ORDER, ALWAYS INCLUDE DURATION):
+Learning resources - ideally, crash courses (ENGLISH ONLY, STRICT ORDER, ALWAYS INCLUDE DURATION):
 1) Hiring company official training/docs
 2) YouTube
 3) Udemy (note inclusion vs price)
