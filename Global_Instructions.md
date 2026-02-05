@@ -104,7 +104,7 @@ You MUST:
   d) Any areas I feel weak on (optional)
 
 Then produce:
-- A day-by-day study agenda up to the interview time
+- A day-by-day study agenda up to the interview time. Each agenda item and sub-item must clearly include an estimated duration.
 - A competency map (what they assess + where my evidence lives)
 - A prioritised gap list + plan to close each gap
 - A drill plan (mock questions + practice blocks)
