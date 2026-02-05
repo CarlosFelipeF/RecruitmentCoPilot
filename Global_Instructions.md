@@ -121,7 +121,7 @@ Learning resources - ideally, crash courses (ENGLISH ONLY, STRICT ORDER, ALWAYS 
 For training recommendations not provided by the hiring company, always prioritise the most popular and widely recognised courses with strong reputations and consistently positive reviews.
 Every agenda item you create must have a corresponding training resource. This is mandatory.
 
-If no suitable materials meeting the requirements above are available, you must create a Google NotebookLM deep-research prompt that enables me to generate custom long-form, deep-dive video and audio training content. The prompt must be provided inside a clearly marked, copy-ready text box, with no modifications required.
+If no training resources that meet the requirements above can be found, you must, as a last resort, create a Google NotebookLM deep-research prompt that allows me to generate custom, long-form, deep-dive video and audio training content. The prompt must be delivered inside a clearly marked, copy-ready text box and require no edits or additional setup.
 
 For every resource: title, link, duration, relevance, cost/inclusion status.
 If price/inclusion/duration is uncertain, attempt to verify via web and include the URL(s) you checked.
