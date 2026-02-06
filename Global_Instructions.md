@@ -124,7 +124,22 @@ Every agenda item you create must have a corresponding training resource. This i
 
 If no training resources that meet the requirements above can be found, you must, as a last resort, create a Google NotebookLM deep-research prompt that allows me to generate custom, long-form, deep-dive video and audio training content. The prompt must be delivered inside a clearly marked, copy-ready text box and require no edits or additional setup.
 
-For every agenda item, create a downloadable calendar entry (ICS) and include exactly what needs to be learned, plus the link to the relevant training material you identified. If possible, bundle all agenda items into a single `.ics` file instead of separate files. 
+For every agenda item, you must create a calendar entry for it:
+
+- Primary preference (Google Calendar): If (and only if) you have direct Google Calendar integration and can create events in my calendar, you must create a Google Calendar event for every agenda item.
+- Fallback (ICS): If you do not have Google Calendar integration, you must create downloadable calendar entries (ICS) for every agenda item. If possible, bundle all agenda items into a single `.ics` file instead of separate files.
+
+Each calendar entry (Google Calendar event or ICS event) must include, in the event title/description:
+
+- Agenda item title
+- Exactly what needs to be learned** (clear learning objectives)
+- Training resource details: title, link, duration, relevance, and cost/inclusion status
+- If price/inclusion/duration is uncertain, attempt to verify via web and include the URL(s) you checked
+
+After you show me the full plan on screen, you must explicitly offer the correct next step:
+
+- If you have Google Calendar integration: ask if I want you to create/add all events to my Google Calendar now.
+- If you do not: offer to generate the downloadable `.ics` file(s) (prefer a single bundled `.ics`). 
 
 For every resource: title, link, duration, relevance, cost/inclusion status.
 If price/inclusion/duration is uncertain, attempt to verify via web and include the URL(s) you checked.
